@@ -1,0 +1,78 @@
+{
+  "dataset": [
+    {
+      "name": "DataSet_1"
+    },
+    {
+      "name": "DataSet_2"
+    },
+    {
+      "name": "DataSet_3"
+    }
+  ],
+  "recipes": [
+    {
+      "name": "recipe_1",
+      "model": "model_1",
+      "dataset": "DataSet_1",
+      "epoch": 100,
+      "date": "2020-01-01 00:00:00"
+    },
+    {
+      "name": "recipe_2",
+      "model": "model_2",
+      "dataset": "DataSet_2",
+      "epoch": 200,
+      "date": "2020-01-02 00:00:00"
+    },
+    {
+      "name": "recipe_3",
+      "model": "model_3",
+      "dataset": "DataSet_3",
+      "epoch": 300,
+      "date": "2020-01-03 00:00:00"
+    },
+    {
+      "name": "recipe_4",
+      "model": "model_4",
+      "dataset": "DataSet_1",
+      "epoch": 400,
+      "date": "2020-01-04 00:00:00"
+    },
+    {
+      "name": "recipe_5",
+      "model": "model_5",
+      "dataset": "DataSet_2",
+      "epoch": 500,
+      "date": "2020-01-05 00:00:00"
+    },
+    {
+      "name": "recipe_6",
+      "model": "model_6",
+      "dataset": "DataSet_3",
+      "epoch": 600,
+      "date": "2020-01-06 00:00:00"
+    },
+    {
+      "name": "recipe_7",
+      "model": "model_7",
+      "dataset": "DataSet_1",
+      "epoch": 700,
+      "date": "2020-01-07 00:00:00"
+    },
+    {
+      "name": "recipe_8",
+      "model": "model_8",
+      "dataset": "DataSet_2",
+      "epoch": 800,
+      "date": "2020-01-08 00:00:00"
+    },
+    {
+      "name": "recipe_9",
+      "model": "model_9",
+      "dataset": "DataSet_3",
+      "epoch": 900,
+      "date": "2020-01-09 00:00:00"
+    }
+  ]
+}
